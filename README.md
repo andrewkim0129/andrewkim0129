@@ -5,6 +5,9 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/andrewkim0129/Azure-Project)
 
+    
+- <b>System Administration Projects</b>
+  - [Creating a VMWare AD Network with 1000 Generated Users](https://github.com/andrewkim0129/VirtualBox-ADDS-Project)
 
 
 <h2> 🤳 Connect with me:</h2>
