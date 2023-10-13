@@ -1,4 +1,4 @@
-<h1>Hello, my name is Andrew, an IT professional with a growing interest in transitioning towards a security focus
+<h1>Hello, my name is Andrew, an IT professional with a growing interest towards a security focus
 
 <h2>👨‍💻 My Projects:</h2>
 
