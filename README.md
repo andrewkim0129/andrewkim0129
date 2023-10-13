@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/andrewkim0129/Azure-Project)
-
+  - [Creating a Vulnerability Management Lab with OpenVAS](https://github.com/andrewkim0129/Azure-OpenVAS)
     
 - <b>System Administration Projects</b>
   - [Creating a VMWare AD Network with 1000 Generated Users](https://github.com/andrewkim0129/VirtualBox-ADDS-Project)
